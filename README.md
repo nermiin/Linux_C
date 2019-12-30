@@ -1,4 +1,4 @@
-This code was written during the <h2> operating System </h2> course FALL 2019 
+This code was written during the ** operating System ** course FALL 2019 
 
 ## Prerequisites:
 + gcc compiler
